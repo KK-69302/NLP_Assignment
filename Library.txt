@@ -1,5 +1,4 @@
-google-generativeai 
-streamlit 
-PyPDF2 
-pdfplumber 
+streamlit
+PyPDF2
 python-docx
+google-generativeai
